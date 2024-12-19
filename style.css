@@ -1,0 +1,55 @@
+html {
+    scroll-behavior: smooth;
+}
+
+#bg_1 {
+    background: url(images/bg_signup.png);
+    background-size: cover;
+}
+
+#bg_2 {
+    background: url(images/bg_login.png);
+    background-size: cover;
+}
+
+#bg_main {
+    background: url('images/bg_main.png');
+    background-size: cover;
+}
+
+.bg-violet {
+    background-color: #AA77FF;
+}
+
+.bg-purple {
+    background-color: #BB8BFC;
+}
+
+.text-light {
+    color: white;
+}
+
+.form-signin {
+    max-width: 330px;
+    padding: 1rem;
+}
+
+.mt-10 {
+    margin-top: 10rem;
+}
+
+.mt-12 {
+    margin-top: 12rem;
+}
+
+.mt-15 {
+    margin-top: 15rem;
+}
+
+.mt-20 {
+    margin-top: 20rem;
+}
+
+.text-violet {
+    color: #AA77FF;
+}
